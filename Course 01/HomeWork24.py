@@ -3,10 +3,12 @@ def time_decorator(func):
         import time
         start_time = time.time() 
 
-        func(*args, **kw)
+        result = func(*args, **kw)
 
         end_time = time.time()
         print("execute time: %2.6f sec, args: %s" %(end_time-start_time, args))
+
+        return result
 
     return wrapper
 
