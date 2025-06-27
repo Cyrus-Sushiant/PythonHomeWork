@@ -1,0 +1,1 @@
+# Amoozeshi dar in rabete dade nashode bud lotfan darsurati ke amoozeshi vojud dare linkesho bezarid
